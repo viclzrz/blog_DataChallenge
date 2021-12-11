@@ -1,0 +1,108 @@
+---
+title: "Blog Data Challenge"
+author: "Equipo #2"
+date: "Otoño 2021"
+output:
+  tufte::tufte_html: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+pacman::p_load(foreign, fixest, tidyverse,
+               stargazer, kableExtra)
+base <- as.data.frame(read.dta("bd_clean.dta"))
+```
+
+```{r variable, echo=F, include=F}
+# sexo
+base <- base %>%
+          mutate(mujer = if_else(sexo == "1", 1, 0),
+                 no_esp = if_else(sexo == "2", 1, 0))
+
+# escolaridad
+base <- base %>% 
+  mutate(educ = if_else(educ == "0", 6,
+                        if_else(educ == "1", 9,
+                                if_else(educ == "2", 12,
+                                        if_else(educ == "3", 16, 18)))))
+
+# salud
+base <- base %>% mutate(salud = as.integer(as.character(salud)))
+
+# vacunacion
+base <- base %>% 
+          mutate(vacunacion_c = if_else(vacunacion == "1", 1, 0),
+                 vacunacion_i = if_else(vacunacion == "0", 1, 0),
+                 n_vacunacion = if_else(vacunacion == "2", 1, 0))
+```
+
+
+
+
+## Pregunta a contestar
+
+## Estadísticas descriptivas
+
+```{r estdesc, echo=F, warning=F, message=F}
+base_ed <- base %>% 
+            mutate(trabajo_presencial = as.integer(as.character(trabajo_presencial)),
+                   comparte_dom_60 = as.integer(as.character(comparte_dom_60)),
+                   contagio = as.integer(as.character(contagio)),
+                   fam_muerte_covid = as.integer(as.character(fam_muerte_covid)),
+                   evento_social_15d = as.integer(as.character(evento_social_15d)),
+                   deporte = as.integer(as.character(deporte)))
+base_ed <- base_ed %>% 
+            select(edad, mujer, educ, trabajo_presencial, comparte_dom,
+                   comparte_dom_60, salud, vacunacion_c, vacunacion_i,
+                   n_vacunacion, contagio, prob_contagio_3m, fam_muerte_covid,
+                   recomendaciones, impacto_soc, impacto_hogar, evento_social_15d,
+                   deporte)
+
+vars <- c("Edad", "Mujer", "Escolaridad (Años)", "Trabajo presencial",
+          "# Personas en domicilio", "Comparte domicilio (>60 años)", 
+          "Percepción estado de Salud", "Vacunación completa", "Vacunación incompleta",
+          "No vacunado", "Contagiado", "Percepción Pr contagio", 
+          "Familiar muerto p/COVID", "Calificación seguimiento recomendaciones",
+          "Preocupación impacto rel. sociales", "Preocupación impacto estrés hogar",
+          "Asistencia a evento social", "Aficionada a deporte")
+
+vars <- data.frame(Variable = vars)
+
+ed1 <- base_ed %>%
+        summarise(across(.fns = ~ mean(.x, na.rm = T))) %>% 
+        pivot_longer(cols = edad:deporte,
+                     names_to = "var",
+                     values_to = "Media") 
+ed2 <- base_ed %>% 
+        summarise(across(.fns = ~ sd(.x, na.rm = T))) %>% 
+        pivot_longer(cols = edad:deporte,
+                     names_to = "var",
+                     values_to = "Desviación Estándar")
+ed3 <- base_ed %>% 
+        summarise(across(.fns = ~ sum(!is.na(.x)))) %>% 
+        pivot_longer(cols = edad:deporte,
+                     names_to = "var",
+                     values_to = "Observaciones") 
+
+ed <- ed1 %>% left_join(ed2, by = "var") %>% left_join(ed3, by = "var")
+
+cbind(vars, ed) %>% select(-c(var)) %>% kbl(digits = 2) %>% kable_minimal()
+```
+
+## Análisis econométrico
+
+## Resultados
+
+## Conclusiones
+
+## Apéndice Estadístico {-} 
+
+
+## Apéndice de Contribuciones {-} 
+
+
+
+
+
+
+
