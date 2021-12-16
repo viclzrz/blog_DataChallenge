@@ -1,0 +1,252 @@
+Marca temporal,edad,genero,escolaridad,trabajo,compartesdom,mayor60,salud,vacuna,contagio,porbcontagio,fallecido,medidas,preosoc,estres,eventos,deporte,estadios,veiled2,directreport2,sensitive2
+2021/11/26 5:20:14 p. m. GMT-6,25,Hombre,Licenciatura,No,1,No,Ni mala ni buena,Si,No,3,Si,5,2,3,No,Si,No estoy de acuerdo,3,3,No
+2021/11/26 5:26:36 p. m. GMT-6,33,Hombre,Licenciatura,No,2,No,Buena,Si,No,2,No,4,4,4,Si,No,Estoy de acuerdo,2,2,Si
+2021/11/27 10:10:14 a. m. GMT-6,28,Hombre,Licenciatura,Si,1,No,Buena,Si,Si,2,No,4,3,3,Si,Si,Estoy de acuerdo,2,2,Si
+2021/11/27 11:15:25 a. m. GMT-6,24,Mujer,Licenciatura,No,3,No,Ni mala ni buena,Si,No,1,Si,3,2,3,No,No,Indiferente,4,2,Si
+2021/11/27 2:24:03 p. m. GMT-6,32,Hombre,Licenciatura,Si,1,No,Buena,Si,Si,4,Si,4,3,5,Si,Si,No estoy de acuerdo,4,3,Si
+2021/11/27 2:30:01 p. m. GMT-6,33,Mujer,Licenciatura,No,1,No,Buena,No me he vacunado,No,3,Si,3,1,4,Si,No,No estoy de acuerdo,2,2,Si
+2021/11/27 2:31:10 p. m. GMT-6,32,Mujer,Licenciatura,No,2,No,Buena,Si,No,2,No,5,4,4,Si,No,Indiferente,1,3,No
+2021/11/27 2:31:48 p. m. GMT-6,24,Mujer,Licenciatura,Si,1,No,Buena,No,No,1,No,3,4,5,No,No,Estoy de acuerdo,4,2,Si
+2021/11/27 2:32:44 p. m. GMT-6,30,Mujer,Licenciatura,No,0,No,Muy buena,Si,No,1,Si,3,1,1,Si,Si,Indiferente,2,3,Si
+2021/11/27 2:42:38 p. m. GMT-6,34,Hombre,Licenciatura,No,0,No,Buena,Si,Si,1,Si,3,3,1,Si,No,Indiferente,1,2,Si
+2021/11/27 2:50:20 p. m. GMT-6,32,Mujer,Licenciatura,No,1,No,Buena,Si,No,3,No,3,5,4,Si,No,Indiferente,1,1,Si
+2021/11/27 2:52:11 p. m. GMT-6,32,Mujer,Posgrado,No,1,Si,Buena,Si,Si,2,No,5,5,4,No,No,Indiferente,3,2,No
+2021/11/27 2:57:57 p. m. GMT-6,28,Hombre,Licenciatura,Si,0,No,Buena,Si,Si,1,No,5,5,4,No,Si,No estoy de acuerdo,3,2,No
+2021/11/27 3:05:06 p. m. GMT-6,32,Hombre,Licenciatura,Si,0,No,Ni mala ni buena,Si,No,4,Si,4,2,3,No,Si,No estoy de acuerdo,5,4,Si
+2021/11/27 3:18:11 p. m. GMT-6,51,Hombre,Preparatoria,Si,2,No,Buena,Si,No,2,Si,5,3,5,Si,Si,Indiferente,3,2,No
+2021/11/27 3:19:06 p. m. GMT-6,33,Hombre,Posgrado,Si,1,No,Muy buena,Si,Si,1,No,3,1,3,Si,Si,Estoy de acuerdo,2,2,Si
+2021/11/27 3:25:52 p. m. GMT-6,35,Hombre,Posgrado,No,0,No,Buena,Si,No,3,No,5,5,3,No,No,Indiferente,5,3,No
+2021/11/27 3:28:33 p. m. GMT-6,67,Hombre,Posgrado,No,1,Si,Ni mala ni buena,Si,Si,2,Si,4,5,4,Si,No,Indiferente,4,2,Si
+2021/11/27 3:43:10 p. m. GMT-6,61,Mujer,Posgrado,No,2,Si,Buena,Si,No,2,Si,4,4,3,Si,Si,Indiferente,3,3,No
+2021/11/27 3:54:17 p. m. GMT-6,31,Mujer,Posgrado,Si,1,No,Buena,Si,No,3,Si,3,3,5,Si,Si,Indiferente,1,1,Si
+2021/11/27 3:59:52 p. m. GMT-6,68,Mujer,Posgrado,No,1,Si,Muy buena,Si,No,1,No,5,1,1,Si,No,No estoy de acuerdo,2,3,No
+2021/11/27 4:09:05 p. m. GMT-6,32,Hombre,Licenciatura,No,1,No,Buena,Si,No,1,Si,3,5,5,Si,No,Indiferente,2,4,Si
+2021/11/27 4:20:08 p. m. GMT-6,36,Mujer,Licenciatura,No,2,No,Muy buena,Si,No,3,No,5,3,3,No,Si,No estoy de acuerdo,4,1,No
+2021/11/27 4:22:35 p. m. GMT-6,33,Mujer,Licenciatura,No,2,Si,Ni mala ni buena,Si,No,2,Si,5,3,4,Si,Si,Indiferente,2,3,No
+2021/11/27 4:23:24 p. m. GMT-6,31,Hombre,Posgrado,Si,1,No,Muy buena,Si,Si,1,Si,5,2,2,Si,Si,Indiferente,2,2,No
+2021/11/27 4:26:24 p. m. GMT-6,36,Hombre,Posgrado,No,4 o mas,No,Buena,Si,Si,3,Si,4,4,4,Si,Si,Indiferente,3,2,Si
+2021/11/27 4:52:46 p. m. GMT-6,55,Mujer,Posgrado,Si,1,No,Buena,Si,No,2,Si,5,4,5,Si,Si,Estoy de acuerdo,3,2,No
+2021/11/27 4:56:23 p. m. GMT-6,24,Mujer,Licenciatura,Si,4 o mas,Si,Buena,Si,No,3,Si,4,3,3,Si,Si,No estoy de acuerdo,2,2,Si
+2021/11/27 4:58:15 p. m. GMT-6,27,Hombre,Licenciatura,Si,4 o mas,Si,Buena,Si,No,3,Si,3,1,5,Si,No,Indiferente,2,3,Si
+2021/11/27 5:03:50 p. m. GMT-6,24,Mujer,Licenciatura,No,1,No,Buena,Si,No,3,Si,4,4,4,Si,No,No estoy de acuerdo,4,4,Si
+2021/11/27 5:14:58 p. m. GMT-6,43,Mujer,Posgrado,No,2,No,Buena,Si,No,3,No,4,4,2,No,Si,No estoy de acuerdo,2,2,No
+2021/11/27 5:21:35 p. m. GMT-6,24,Mujer,Licenciatura,No,1,No,Buena,Si,No,3,Si,4,2,5,Si,Si,Estoy de acuerdo,3,3,No
+2021/11/27 5:32:14 p. m. GMT-6,23,Mujer,Licenciatura,Si,4 o mas,No,Buena,Si,No,3,No,5,3,3,No,No,Indiferente,4,3,No
+2021/11/27 5:34:56 p. m. GMT-6,21,Mujer,Preparatoria,Si,4 o mas,No,Buena,Si,No,2,No,5,3,4,No,No,Indiferente,3,3,No
+2021/11/27 5:35:07 p. m. GMT-6,45,Mujer,Preparatoria,Si,4 o mas,No,Buena,Si,No,3,Si,5,1,2,No,No,No estoy de acuerdo,1,3,Si
+2021/11/27 5:39:58 p. m. GMT-6,17,Hombre,Preparatoria,No,4 o mas,No,Buena,No me he vacunado,No,3,No,4,4,4,No,Si,Estoy de acuerdo,2,2,No
+2021/11/27 5:41:47 p. m. GMT-6,59,Hombre,Licenciatura,Si,4 o mas,No,Buena,Si,Si,3,Si,3,3,2,Si,Si,No estoy de acuerdo,4,0,Si
+2021/11/27 5:42:29 p. m. GMT-6,50,Mujer,Licenciatura,No,3,No,Buena,Si,No,2,Si,4,3,5,No,Si,No estoy de acuerdo,3,3,Si
+2021/11/27 5:46:06 p. m. GMT-6,54,Mujer,Licenciatura,No,0,No,Ni mala ni buena,Si,No,2,No,3,5,3,No,No,Indiferente,3,3,Si
+2021/11/27 5:51:19 p. m. GMT-6,46,Mujer,Licenciatura,No,2,No,Buena,Si,Si,1,No,5,4,5,No,Si,No estoy de acuerdo,5,2,No
+2021/11/27 5:53:38 p. m. GMT-6,22,Mujer,Preparatoria,No,0,No,Ni mala ni buena,Si,No,3,No,4,3,5,No,Si,Indiferente,3,3,Si
+2021/11/27 5:53:40 p. m. GMT-6,51,Mujer,Licenciatura,Si,2,Si,Buena,Si,No,3,No,4,4,4,No,No,No estoy de acuerdo,3,2,Si
+2021/11/27 6:06:24 p. m. GMT-6,51,Mujer,Posgrado,Si,3,No,Buena,Si,No,3,Si,5,3,4,No,No,No estoy de acuerdo,1,4,No
+2021/11/27 7:21:43 p. m. GMT-6,16,Mujer,Preparatoria,No,3,No,Ni mala ni buena,No me he vacunado,No,4,No,5,5,5,No,No,No estoy de acuerdo,4,2,Si
+2021/11/27 7:29:01 p. m. GMT-6,53,Hombre,Preparatoria,Si,2,No,Buena,No,Si,3,Si,4,5,3,No,No,Indiferente,4,2,No
+2021/11/27 8:24:58 p. m. GMT-6,30,Mujer,Posgrado,No,0,No,Ni mala ni buena,Si,No,3,Si,4,3,4,Si,No,Indiferente,3,2,Si
+2021/11/27 8:50:22 p. m. GMT-6,18,Mujer,Preparatoria,No,3,No,Buena,Si,No,1,No,4,4,5,No,Si,No estoy de acuerdo,2,3,Si
+2021/11/27 8:59:30 p. m. GMT-6,62,Mujer,Posgrado,No,2,Si,Muy buena,Si,No,1,No,5,4,1,No,Si,No estoy de acuerdo,4,3,No
+2021/11/27 9:03:48 p. m. GMT-6,55,Hombre,Preparatoria,Si,3,No,Buena,Si,No,2,No,5,5,2,No,Si,No estoy de acuerdo,3,1,No
+2021/11/27 9:07:09 p. m. GMT-6,62,Hombre,Secundaria,Si,2,No,Muy buena,Si,No,3,No,4,3,2,No,Si,Indiferente,1,3,No
+2021/11/27 9:09:15 p. m. GMT-6,29,Hombre,Licenciatura,Si,2,Si,Buena,Si,Si,1,Si,4,3,3,No,No,No estoy de acuerdo,2,2,No
+2021/11/27 9:13:42 p. m. GMT-6,65,Hombre,Posgrado,No,0,No,Buena,Si,No,2,Si,5,4,4,Si,Si,Indiferente,4,3,Si
+2021/11/27 9:14:33 p. m. GMT-6,63,Hombre,Posgrado,Si,2,Si,Buena,Si,No,4,No,4,5,5,Si,Si,Estoy de acuerdo,4,3,No
+2021/11/27 9:19:26 p. m. GMT-6,61,Mujer,Licenciatura,Si,1,Si,Ni mala ni buena,Si,No,3,No,5,3,3,No,No,No estoy de acuerdo,5,3,No
+2021/11/27 9:19:55 p. m. GMT-6,41,Mujer,Posgrado,Si,3,Si,Buena,Si,No,4,Si,4,4,5,No,Si,No estoy de acuerdo,3,2,No
+2021/11/27 9:23:19 p. m. GMT-6,51,Mujer,Licenciatura,Si,4 o mas,No,Ni mala ni buena,Si,No,3,No,5,4,4,No,No,No estoy de acuerdo,3,2,No
+2021/11/27 9:26:29 p. m. GMT-6,24,Mujer,Licenciatura,Si,4 o mas,No,Buena,Si,No,2,No,5,3,4,No,Si,No estoy de acuerdo,2,3,No
+2021/11/27 9:33:40 p. m. GMT-6,32,Hombre,Posgrado,Si,1,No,Muy buena,Si,Si,3,Si,5,1,1,Si,Si,Indiferente,3,0,Si
+2021/11/27 9:35:35 p. m. GMT-6,39,Mujer,Posgrado,No,1,No,Ni mala ni buena,Si,No,4,Si,4,4,4,Si,No,No estoy de acuerdo,4,3,Si
+2021/11/27 9:41:19 p. m. GMT-6,29,Hombre,Licenciatura,No,4 o mas,Si,Ni mala ni buena,Si,No,3,Si,4,4,3,No,Si,Estoy de acuerdo,5,4,Si
+2021/11/27 9:46:26 p. m. GMT-6,58,Mujer,Posgrado,No,4 o mas,Si,Buena,Si,Si,1,Si,5,3,3,Si,No,No estoy de acuerdo,5,3,Si
+2021/11/27 9:54:21 p. m. GMT-6,49,Hombre,Posgrado,Si,4 o mas,No,Muy buena,Si,No,3,No,4,3,3,Si,Si,Indiferente,4,2,Si
+2021/11/27 9:59:09 p. m. GMT-6,24,Mujer,Licenciatura,Si,1,No,Buena,Si,Si,3,Si,3,2,2,No,No,Indiferente,4,4,Si
+2021/11/27 10:37:18 p. m. GMT-6,39,Hombre,Licenciatura,Si,2,No,Buena,Si,No,3,Si,5,4,5,No,Si,No estoy de acuerdo,1,3,No
+2021/11/27 10:38:39 p. m. GMT-6,37,Hombre,Posgrado,Si,3,Si,Buena,Si,Si,2,No,5,1,3,No,No,No estoy de acuerdo,3,2,No
+2021/11/27 11:00:55 p. m. GMT-6,56,Mujer,Preparatoria,Si,1,No,Ni mala ni buena,Si,No,5,Si,3,5,5,No,Si,No estoy de acuerdo,5,3,No
+2021/11/27 11:38:05 p. m. GMT-6,40,Mujer,Posgrado,Si,4 o mas,Si,Ni mala ni buena,Si,No,2,Si,4,5,5,No,No,No estoy de acuerdo,3,2,No
+2021/11/28 1:33:28 a. m. GMT-6,35,Hombre,Licenciatura,No,2,Si,Buena,Si,Si,2,No,5,4,3,Si,Si,No estoy de acuerdo,2,2,Si
+2021/11/28 4:57:24 a. m. GMT-6,33,Mujer,Posgrado,No,1,No,Buena,Si,Si,4,No,3,2,1,Si,Si,Indiferente,1,1,No
+2021/11/28 5:47:55 a. m. GMT-6,32,Mujer,Posgrado,Si,1,No,Buena,Si,Si,2,No,3,3,4,Si,No,No estoy de acuerdo,2,3,Si
+2021/11/28 8:02:17 a. m. GMT-6,41,Hombre,Licenciatura,Si,4 o mas,No,Buena,Si,Si,2,Si,4,1,3,Si,Si,Estoy de acuerdo,3,3,Si
+2021/11/28 8:35:48 a. m. GMT-6,30,Hombre,Licenciatura,No,4 o mas,Si,Muy buena,No me he vacunado,Si,4,Si,3,4,5,Si,No,No estoy de acuerdo,1,4,Si
+2021/11/28 9:55:31 a. m. GMT-6,64,Hombre,Posgrado,Si,1,Si,Muy buena,Si,No,1,Si,5,3,1,No,Si,No estoy de acuerdo,4,1,No
+2021/11/28 10:03:20 a. m. GMT-6,59,Mujer,Licenciatura,Si,1,No,Buena,Si,Si,3,Si,5,4,5,Si,No,No estoy de acuerdo,3,2,No
+2021/11/28 10:19:15 a. m. GMT-6,60,Mujer,Posgrado,No,1,No,Muy buena,Si,Si,3,Si,4,2,2,No,Si,Estoy de acuerdo,4,2,Si
+2021/11/28 10:43:14 a. m. GMT-6,33,Hombre,Licenciatura,Si,3,Si,Buena,Si,No,3,No,2,4,2,No,Si,Indiferente,2,2,Si
+2021/11/28 11:55:21 a. m. GMT-6,38,Hombre,Posgrado,Si,1,No,Buena,Si,Si,3,Si,4,4,4,Si,Si,No estoy de acuerdo,1,4,No
+2021/11/28 2:00:20 p. m. GMT-6,58,Hombre,Posgrado,Si,4 o mas,No,Ni mala ni buena,Si,No,3,Si,4,3,5,Si,Si,Estoy de acuerdo,5,3,Si
+2021/11/28 2:25:17 p. m. GMT-6,36,Hombre,Licenciatura,Si,3,Si,Buena,Si,Si,3,Si,3,2,2,Si,No,Indiferente,2,3,Si
+2021/11/28 2:31:25 p. m. GMT-6,54,Mujer,Licenciatura,Si,2,Si,Buena,Si,No,2,No,5,3,1,No,Si,No estoy de acuerdo,4,3,Si
+2021/11/28 2:34:35 p. m. GMT-6,34,Hombre,Posgrado,Si,2,Si,Buena,Si,No,3,No,4,2,2,Si,No,Estoy de acuerdo,2,2,Si
+2021/11/28 2:44:40 p. m. GMT-6,62,Hombre,Licenciatura,Si,3,No,Buena,Si,Si,3,Si,5,5,5,Si,Si,No estoy de acuerdo,3,3,No
+2021/11/28 3:08:39 p. m. GMT-6,46,Mujer,Licenciatura,No,2,No,Buena,Si,No,2,Si,5,5,4,No,Si,No estoy de acuerdo,5,4,No
+2021/11/28 3:10:18 p. m. GMT-6,79,Hombre,Licenciatura,No,1,Si,Buena,Si,No,3,Si,5,2,1,No,Si,Indiferente,5,1,No
+2021/11/28 7:43:25 p. m. GMT-6,33,Mujer,Posgrado,No,2,No,Buena,No,No,3,Si,4,3,3,Si,No,No estoy de acuerdo,3,2,No
+2021/11/28 8:17:24 p. m. GMT-6,32,Mujer,Posgrado,Si,1,Si,Buena,Si,No,1,Si,5,3,4,No,No,No estoy de acuerdo,1,3,No
+2021/11/28 8:18:33 p. m. GMT-6,33,Hombre,Posgrado,Si,1,No,Buena,Si,No,3,No,4,5,5,No,Si,No estoy de acuerdo,1,1,Si
+2021/11/28 8:19:42 p. m. GMT-6,37,Mujer,Posgrado,Si,3,Si,Ni mala ni buena,Si,No,3,No,3,4,4,Si,No,No estoy de acuerdo,4,3,Si
+2021/11/28 8:30:49 p. m. GMT-6,34,Hombre,Posgrado,Si,1,No,Muy buena,Si,Si,2,No,4,3,4,Si,Si,No estoy de acuerdo,2,4,No
+2021/11/28 8:50:44 p. m. GMT-6,32,Mujer,Licenciatura,No,2,No,Ni mala ni buena,Si,Si,3,Si,3,5,5,Si,No,Indiferente,2,2,No
+2021/11/28 9:00:04 p. m. GMT-6,37,Mujer,Licenciatura,No,2,Si,Muy buena,Si,No,2,No,5,3,4,Si,Si,Indiferente,3,3,No
+2021/11/28 9:20:06 p. m. GMT-6,40,Mujer,Licenciatura,Si,2,No,Buena,Si,No,3,No,4,1,3,No,No,No estoy de acuerdo,3,2,No
+2021/11/28 9:22:34 p. m. GMT-6,23,Hombre,Preparatoria,Si,4 o mas,No,Buena,Si,Si,3,No,3,3,1,Si,Si,Estoy de acuerdo,1,4,Si
+2021/11/28 9:31:08 p. m. GMT-6,33,Hombre,Posgrado,No,4 o mas,Si,Buena,Si,No,2,No,5,3,5,No,No,No estoy de acuerdo,2,3,No
+2021/11/28 10:11:04 p. m. GMT-6,42,Hombre,Licenciatura,No,1,No,Buena,Si,No,1,No,3,3,3,No,No,Estoy de acuerdo,4,3,No
+2021/11/28 10:19:00 p. m. GMT-6,55,Hombre,Posgrado,Si,1,No,Buena,Si,No,2,No,5,4,5,Si,No,No estoy de acuerdo,4,3,Si
+2021/11/28 10:29:09 p. m. GMT-6,37,Hombre,Posgrado,No,0,No,Buena,Si,No,2,No,5,3,5,Si,Si,Estoy de acuerdo,3,4,No
+2021/11/28 10:41:27 p. m. GMT-6,45,Hombre,Posgrado,Si,0,No,Ni mala ni buena,Si,Si,2,Si,4,5,5,Si,No,Estoy de acuerdo,3,3,Si
+2021/11/28 10:44:51 p. m. GMT-6,32,Hombre,Posgrado,Si,0,No,Buena,Si,No,4,Si,4,4,4,Si,No,No estoy de acuerdo,3,3,No
+2021/11/28 10:50:44 p. m. GMT-6,32,Mujer,Licenciatura,Si,4 o mas,Si,Buena,Si,No,2,No,3,4,4,No,No,No estoy de acuerdo,4,3,Si
+2021/11/28 10:52:25 p. m. GMT-6,39,Hombre,Posgrado,Si,0,No,Buena,Si,Si,4,No,3,2,4,Si,Si,Estoy de acuerdo,3,3,Si
+2021/11/28 11:43:33 p. m. GMT-6,24,Hombre,Licenciatura,No,2,No,Ni mala ni buena,Si,Si,3,Si,4,5,4,Si,No,Indiferente,2,2,No
+2021/11/29 12:10:33 a. m. GMT-6,29,Mujer,Licenciatura,No,2,Si,Buena,Si,No,2,Si,5,3,4,Si,Si,No estoy de acuerdo,3,3,No
+2021/11/29 12:10:36 a. m. GMT-6,29,Mujer,Licenciatura,No,2,Si,Buena,Si,No,2,Si,5,3,4,Si,Si,No estoy de acuerdo,3,3,No
+2021/11/29 2:00:44 a. m. GMT-6,30,Hombre,Posgrado,No,1,No,Buena,Si,No,3,No,4,4,4,No,No,No estoy de acuerdo,3,3,Si
+2021/11/29 6:42:00 a. m. GMT-6,38,Hombre,Posgrado,Si,1,No,Buena,Si,Si,3,Si,5,3,4,Si,No,Indiferente,4,1,No
+2021/11/29 11:13:05 a. m. GMT-6,29,Hombre,Licenciatura,No,4 o mas,No,Buena,Si,Si,3,No,4,2,4,Si,No,Indiferente,1,2,Si
+2021/11/29 1:33:15 p. m. GMT-6,28,Hombre,Licenciatura,Si,3,Si,Muy buena,Si,Si,3,No,4,2,4,Si,Si,No estoy de acuerdo,2,3,Si
+2021/11/29 2:25:01 p. m. GMT-6,46,Hombre,Preparatoria,Si,4 o mas,Si,Buena,Si,No,2,No,5,1,1,No,No,Indiferente,2,3,No
+2021/11/29 4:06:22 p. m. GMT-6,34,Hombre,Posgrado,No,0,No,Buena,Si,No,2,No,4,4,2,Si,Si,No estoy de acuerdo,4,3,Si
+2021/11/29 4:58:40 p. m. GMT-6,35,Hombre,Licenciatura,Si,1,No,Buena,Si,No,2,No,4,4,5,Si,No,Indiferente,3,3,Si
+2021/11/29 8:59:32 p. m. GMT-6,41,Hombre,Preparatoria,Si,1,No,Buena,Si,Si,3,No,4,4,3,No,Si,Indiferente,4,3,Si
+2021/11/29 9:06:33 p. m. GMT-6,38,Hombre,Licenciatura,Si,1,No,Buena,Si,No,5,Si,5,5,5,Si,No,No estoy de acuerdo,5,2,Si
+2021/11/30 8:30:33 a. m. GMT-6,36,Hombre,Posgrado,Si,0,No,Muy buena,Si,Si,1,No,4,3,1,Si,No,Estoy de acuerdo,3,4,No
+2021/11/30 10:32:10 a. m. GMT-6,24,Mujer,Licenciatura,Si,3,No,Ni mala ni buena,Si,No,3,No,4,5,5,Si,Si,Indiferente,4,3,Si
+2021/11/30 10:37:02 a. m. GMT-6,53,Mujer,Licenciatura,Si,4 o mas,No,Ni mala ni buena,Si,Si,2,No,4,2,2,No,No,No estoy de acuerdo,4,2,No
+2021/11/30 10:38:50 a. m. GMT-6,23,Hombre,Licenciatura,Si,4 o mas,Si,Buena,Si,No,2,Si,4,3,3,Si,Si,Estoy de acuerdo,4,3,Si
+2021/11/30 10:39:52 a. m. GMT-6,26,Hombre,Licenciatura,No,4 o mas,No,Buena,Si,No,3,No,5,4,4,Si,No,Indiferente,2,3,Si
+2021/11/30 10:42:38 a. m. GMT-6,56,Hombre,Posgrado,Si,3,No,Buena,Si,No,2,No,5,4,4,No,No,Indiferente,5,4,No
+2021/11/30 10:43:11 a. m. GMT-6,25,Hombre,Licenciatura,No,3,Si,Mala,Si,No,2,No,5,4,1,No,Si,Indiferente,1,3,No
+2021/11/30 10:50:26 a. m. GMT-6,32,Hombre,Licenciatura,Si,1,No,Muy buena,Si,No,2,Si,3,3,1,No,Si,Estoy de acuerdo,4,3,Si
+2021/11/30 10:50:27 a. m. GMT-6,26,Mujer,Licenciatura,No,4 o mas,No,Buena,Si,No,3,No,5,2,4,Si,No,Indiferente,5,0,Si
+2021/11/30 10:51:40 a. m. GMT-6,29,Hombre,Licenciatura,No,1,Si,Buena,Si,No,2,No,4,2,2,No,Si,Indiferente,3,2,No
+2021/11/30 10:52:41 a. m. GMT-6,24,Mujer,Licenciatura,No,3,No,Ni mala ni buena,Si,Si,3,Si,5,5,5,No,Si,No estoy de acuerdo,2,3,No
+2021/11/30 10:54:09 a. m. GMT-6,67,Hombre,Licenciatura,No,1,Si,Buena,Si,Si,3,No,4,4,4,Si,No,Indiferente,4,2,Si
+2021/11/30 10:55:25 a. m. GMT-6,26,Hombre,Licenciatura,No,2,Si,Buena,Si,No,3,Si,4,3,5,No,No,No estoy de acuerdo,3,2,Si
+2021/11/30 10:56:34 a. m. GMT-6,60,Hombre,Posgrado,No,1,No,Muy buena,Si,No,3,Si,5,4,3,No,Si,No estoy de acuerdo,4,2,No
+2021/11/30 11:05:35 a. m. GMT-6,25,Mujer,Licenciatura,No,3,No,Ni mala ni buena,Si,Si,4,Si,3,3,5,Si,No,Indiferente,3,3,Si
+2021/11/30 11:06:22 a. m. GMT-6,50,Hombre,Posgrado,No,1,No,Buena,Si,No,2,Si,4,2,2,No,Si,No estoy de acuerdo,1,4,Si
+2021/11/30 11:10:11 a. m. GMT-6,28,Hombre,Licenciatura,Si,4 o mas,No,Buena,No,Si,3,Si,3,2,2,Si,No,Indiferente,1,4,Si
+2021/11/30 11:10:50 a. m. GMT-6,19,Mujer,Licenciatura,No,3,No,Muy buena,Si,No,3,No,5,5,5,No,No,Indiferente,4,3,Si
+2021/11/30 11:12:29 a. m. GMT-6,32,Hombre,Licenciatura,Si,4 o mas,Si,Buena,Si,No,2,Si,4,3,5,No,Si,No estoy de acuerdo,4,3,Si
+2021/11/30 11:13:34 a. m. GMT-6,25,Hombre,Licenciatura,Si,0,No,Ni mala ni buena,Si,No,3,Si,4,5,5,No,Si,Indiferente,4,2,No
+2021/11/30 11:14:13 a. m. GMT-6,22,Hombre,Licenciatura,Si,3,No,Buena,Si,No,2,No,4,4,5,Si,No,Indiferente,3,3,Si
+2021/11/30 11:14:23 a. m. GMT-6,41,Mujer,Secundaria,Si,4 o mas,Si,Buena,Si,No,5,Si,4,4,4,No,No,No estoy de acuerdo,2,2,No
+2021/11/30 11:14:48 a. m. GMT-6,24,Mujer,Licenciatura,Si,4 o mas,No,Buena,Si,No,1,Si,5,3,4,Si,Si,No estoy de acuerdo,2,3,Si
+2021/11/30 11:16:17 a. m. GMT-6,39,Mujer,Secundaria,Si,2,Si,Buena,Si,No,2,No,5,3,3,No,No,Indiferente,3,3,No
+2021/11/30 11:21:38 a. m. GMT-6,28,Hombre,Preparatoria,Si,4 o mas,Si,Buena,Si,No,3,No,3,1,1,Si,No,Indiferente,2,3,Si
+2021/11/30 11:23:40 a. m. GMT-6,32,Hombre,Preparatoria,Si,4 o mas,Si,Muy buena,Si,No,1,No,5,5,5,No,Si,Indiferente,1,3,Si
+2021/11/30 11:24:18 a. m. GMT-6,19,Mujer,Preparatoria,No,3,No,Muy buena,Si,Si,2,No,5,4,3,Si,No,No estoy de acuerdo,3,3,No
+2021/11/30 11:28:04 a. m. GMT-6,25,Hombre,Licenciatura,Si,3,No,Buena,Si,No,3,Si,5,4,4,Si,No,No estoy de acuerdo,2,2,Si
+2021/11/30 11:31:57 a. m. GMT-6,31,Mujer,Posgrado,No,3,No,Muy buena,Si,Si,3,Si,2,2,3,Si,No,Indiferente,3,2,Si
+2021/11/30 11:32:42 a. m. GMT-6,27,Hombre,Posgrado,No,2,No,Buena,Si,No,3,Si,5,4,4,Si,No,Estoy de acuerdo,4,4,No
+2021/11/30 11:33:06 a. m. GMT-6,37,Mujer,Posgrado,Si,2,No,Buena,Si,Si,3,Si,4,3,2,Si,No,No estoy de acuerdo,2,4,Si
+2021/11/30 11:35:04 a. m. GMT-6,32,Mujer,Licenciatura,No,3,No,Muy buena,Si,No,4,Si,5,1,3,Si,No,Estoy de acuerdo,5,3,No
+2021/11/30 11:35:41 a. m. GMT-6,34,Mujer,Posgrado,No,2,No,Buena,Si,Si,3,Si,4,3,4,Si,Si,Estoy de acuerdo,2,3,Si
+2021/11/30 11:36:22 a. m. GMT-6,27,Hombre,Licenciatura,Si,1,No,Muy buena,Si,No,4,No,4,2,2,Si,Si,Indiferente,3,2,No
+2021/11/30 11:36:54 a. m. GMT-6,33,Mujer,Licenciatura,Si,0,No,Buena,Si,No,3,No,4,5,3,Si,No,No estoy de acuerdo,3,3,No
+2021/11/30 11:37:36 a. m. GMT-6,34,Mujer,Licenciatura,No,1,No,Muy buena,Si,No,2,Si,5,5,5,Si,No,No estoy de acuerdo,3,3,No
+2021/11/30 11:39:03 a. m. GMT-6,28,Mujer,Licenciatura,No,2,No,Muy buena,No me he vacunado,Si,2,No,4,2,4,No,No,Indiferente,2,2,No
+2021/11/30 11:39:56 a. m. GMT-6,20,Mujer,Preparatoria,Si,4 o mas,No,Ni mala ni buena,Si,Si,3,No,2,4,4,No,No,Indiferente,5,3,No
+2021/11/30 11:40:56 a. m. GMT-6,40,Mujer,Licenciatura,Si,2,No,Buena,Si,No,2,No,5,5,4,Si,Si,Estoy de acuerdo,3,2,No
+2021/11/30 11:41:51 a. m. GMT-6,32,Hombre,Posgrado,Si,1,Si,Buena,Si,No,2,No,4,5,5,Si,Si,Estoy de acuerdo,5,3,Si
+2021/11/30 11:42:15 a. m. GMT-6,25,Hombre,Preparatoria,Si,4 o mas,Si,Buena,No,No,4,No,5,4,4,Si,No,Indiferente,4,1,Si
+2021/11/30 11:43:26 a. m. GMT-6,32,Mujer,Licenciatura,No,2,No,Buena,Si,Si,1,Si,3,5,5,Si,Si,Estoy de acuerdo,0,0,Si
+2021/11/30 11:43:33 a. m. GMT-6,33,Mujer,Licenciatura,Si,2,No,Buena,Si,No,2,No,4,4,4,Si,No,Estoy de acuerdo,4,3,Si
+2021/11/30 11:44:41 a. m. GMT-6,18,Mujer,Preparatoria,Si,4 o mas,No,Buena,Si,No,1,Si,5,3,5,Si,No,No estoy de acuerdo,4,2,No
+2021/11/30 11:45:09 a. m. GMT-6,18,Mujer,Licenciatura,Si,4 o mas,No,Muy buena,No,Si,4,No,5,3,4,No,Si,Indiferente,1,3,No
+2021/11/30 11:47:41 a. m. GMT-6,20,Hombre,Preparatoria,No,1,No,Muy buena,Si,No,2,No,4,3,2,No,No,No estoy de acuerdo,4,2,Si
+2021/11/30 11:48:57 a. m. GMT-6,15,Mujer,Secundaria,Si,3,No,Buena,No me he vacunado,No,2,No,5,2,4,No,Si,No estoy de acuerdo,4,2,Si
+2021/11/30 11:53:22 a. m. GMT-6,26,Mujer,Licenciatura,Si,0,No,Buena,Si,No,3,Si,5,3,5,No,No,No estoy de acuerdo,3,4,Si
+2021/11/30 11:58:06 a. m. GMT-6,21,Hombre,Licenciatura,No,3,Si,Buena,Si,No,2,No,4,3,1,Si,No,No estoy de acuerdo,0,2,Si
+2021/11/30 11:58:52 a. m. GMT-6,27,Hombre,Preparatoria,Si,4 o mas,Si,Buena,Si,No,2,No,5,2,1,Si,Si,Indiferente,5,4,No
+2021/11/30 12:01:13 p. m. GMT-6,37,Mujer,Posgrado,No,3,No,Muy buena,Si,No,2,No,4,4,2,Si,No,No estoy de acuerdo,4,1,Si
+2021/11/30 12:01:19 p. m. GMT-6,28,Hombre,Preparatoria,Si,0,No,Muy buena,No,No,1,Si,1,1,3,Si,No,Indiferente,0,4,Si
+2021/11/30 12:09:55 p. m. GMT-6,31,Mujer,Licenciatura,No,2,No,Muy buena,Si,No,2,No,4,4,4,No,No,No estoy de acuerdo,5,1,Si
+2021/11/30 12:13:34 p. m. GMT-6,26,Hombre,Licenciatura,Si,2,No,Ni mala ni buena,Si,No,3,No,3,3,5,No,No,No estoy de acuerdo,2,2,No
+2021/11/30 12:20:15 p. m. GMT-6,57,Hombre,Licenciatura,Si,4 o mas,No,Buena,Si,No,3,Si,5,4,4,Si,Si,Estoy de acuerdo,3,4,Si
+2021/11/30 12:21:08 p. m. GMT-6,42,Hombre,Posgrado,Si,0,No,Muy buena,Si,No,3,No,5,5,5,No,Si,No estoy de acuerdo,3,3,No
+2021/11/30 12:27:00 p. m. GMT-6,33,Hombre,Licenciatura,No,2,No,Buena,Si,No,5,No,4,5,4,No,No,No estoy de acuerdo,4,3,No
+2021/11/30 12:27:52 p. m. GMT-6,29,Hombre,Licenciatura,No,3,No,Muy buena,Si,No,2,No,4,5,5,Si,Si,Estoy de acuerdo,3,4,Si
+2021/11/30 12:31:20 p. m. GMT-6,48,Mujer,Preparatoria,Si,2,Si,Buena,Si,No,2,Si,3,3,3,No,No,Indiferente,1,3,No
+2021/11/30 12:35:57 p. m. GMT-6,26,Hombre,Preparatoria,No,3,No,Buena,Si,No,1,No,5,1,1,No,No,Indiferente,5,4,No
+2021/11/30 12:41:02 p. m. GMT-6,21,Mujer,Preparatoria,Si,4 o mas,No,Muy buena,No,No,2,No,4,4,5,No,No,No estoy de acuerdo,4,1,Si
+2021/11/30 12:46:05 p. m. GMT-6,67,Hombre,Posgrado,No,2,Si,Buena,Si,No,3,Si,5,4,4,No,Si,Estoy de acuerdo,3,2,No
+2021/11/30 12:51:14 p. m. GMT-6,18,Hombre,Preparatoria,No,4 o mas,Si,Buena,Si,No,3,No,2,4,2,Si,No,Indiferente,4,3,Si
+2021/11/30 12:59:26 p. m. GMT-6,31,Hombre,Licenciatura,No,2,No,Buena,Si,No,4,Si,4,2,3,Si,Si,Indiferente,5,2,No
+2021/11/30 1:00:53 p. m. GMT-6,28,Hombre,Licenciatura,No,0,No,Ni mala ni buena,Si,Si,3,No,4,5,5,Si,Si,Estoy de acuerdo,3,4,Si
+2021/11/30 1:03:05 p. m. GMT-6,48,Hombre,Secundaria,Si,4 o mas,No,Muy buena,Si,No,3,No,3,4,5,No,Si,Indiferente,3,2,No
+2021/11/30 1:07:12 p. m. GMT-6,35,Hombre,Licenciatura,No,1,Si,Buena,Si,No,2,Si,4,3,4,Si,Si,Estoy de acuerdo,2,2,No
+2021/11/30 1:08:23 p. m. GMT-6,57,Hombre,Preparatoria,No,3,No,Muy buena,Si,No,1,No,3,5,4,No,No,No estoy de acuerdo,2,3,No
+2021/11/30 1:15:10 p. m. GMT-6,26,Hombre,Licenciatura,Si,4 o mas,No,Buena,Si,No,3,No,4,5,5,No,Si,Indiferente,5,4,Si
+2021/11/30 1:25:02 p. m. GMT-6,22,Mujer,Licenciatura,No,2,No,Buena,Si,Si,3,No,2,1,3,No,No,Indiferente,4,4,Si
+2021/11/30 1:29:07 p. m. GMT-6,28,Mujer,Licenciatura,Si,1,No,Buena,Si,Si,3,No,2,5,2,No,Si,Indiferente,5,4,No
+2021/11/30 1:47:08 p. m. GMT-6,39,Mujer,Licenciatura,No,3,No,Muy buena,Si,No,3,Si,5,3,5,No,Si,No estoy de acuerdo,4,4,No
+2021/11/30 1:51:03 p. m. GMT-6,45,Mujer,Posgrado,Si,2,No,Buena,No,No,2,Si,5,4,5,Si,Si,Indiferente,4,3,Si
+2021/11/30 2:03:37 p. m. GMT-6,62,Mujer,Posgrado,No,1,Si,Muy buena,Si,No,2,No,4,5,3,No,Si,No estoy de acuerdo,2,2,Si
+2021/11/30 2:23:47 p. m. GMT-6,32,Mujer,Licenciatura,Si,1,No,Buena,Si,No,3,No,3,3,3,No,Si,No estoy de acuerdo,5,3,No
+2021/11/30 2:27:14 p. m. GMT-6,34,Hombre,Licenciatura,Si,1,No,Ni mala ni buena,Si,Si,3,No,4,2,4,No,Si,Indiferente,4,3,No
+2021/11/30 2:27:50 p. m. GMT-6,58,Mujer,Licenciatura,Si,3,Si,Ni mala ni buena,Si,No,3,Si,5,4,4,Si,Si,Indiferente,4,3,Si
+2021/11/30 2:34:41 p. m. GMT-6,48,Mujer,Posgrado,Si,1,Si,Buena,Si,No,2,No,4,5,4,Si,No,Indiferente,2,3,Si
+2021/11/30 2:37:31 p. m. GMT-6,38,Mujer,Licenciatura,Si,4 o mas,No,Muy buena,Si,No,2,Si,4,4,3,No,Si,Indiferente,3,2,No
+2021/11/30 2:42:00 p. m. GMT-6,42,Mujer,Preparatoria,Si,3,No,Buena,Si,Si,3,No,5,5,5,No,Si,No estoy de acuerdo,3,2,No
+2021/11/30 2:58:30 p. m. GMT-6,38,Mujer,Licenciatura,No,3,Si,Buena,Si,Si,2,No,4,3,5,No,Si,No estoy de acuerdo,3,3,Si
+2021/11/30 3:11:34 p. m. GMT-6,32,Mujer,Licenciatura,No,1,No,Buena,Si,No,3,Si,2,5,5,Si,No,No estoy de acuerdo,2,3,Si
+2021/11/30 3:13:37 p. m. GMT-6,51,Mujer,Posgrado,No,3,No,Muy buena,Si,No,3,No,4,3,4,Si,Si,Estoy de acuerdo,3,2,Si
+2021/11/30 3:29:12 p. m. GMT-6,50,Mujer,Posgrado,Si,2,No,Muy buena,Si,No,3,Si,5,5,5,No,No,No estoy de acuerdo,1,1,Si
+2021/11/30 3:37:03 p. m. GMT-6,24,Hombre,Posgrado,No,4 o mas,No,Buena,Si,No,3,Si,4,2,1,Si,Si,Indiferente,4,2,Si
+2021/11/30 3:37:08 p. m. GMT-6,53,Mujer,Posgrado,Si,0,No,Muy buena,Si,No,3,Si,5,3,3,Si,Si,No estoy de acuerdo,1,3,No
+2021/11/30 3:37:27 p. m. GMT-6,37,Mujer,Posgrado,No,0,No,Buena,Si,No,1,No,4,2,3,Si,No,No estoy de acuerdo,3,4,Si
+2021/11/30 4:15:15 p. m. GMT-6,45,Hombre,Posgrado,No,1,No,Muy buena,Si,No,1,Si,5,5,3,Si,Si,Indiferente,5,3,Si
+2021/11/30 4:27:23 p. m. GMT-6,58,Mujer,Licenciatura,No,1,Si,Muy buena,Si,No,2,Si,4,3,2,No,Si,Indiferente,4,2,Si
+2021/11/30 4:37:18 p. m. GMT-6,31,Hombre,Licenciatura,Si,3,No,Buena,Si,No,2,Si,3,4,1,Si,No,No estoy de acuerdo,4,3,Si
+2021/11/30 4:42:34 p. m. GMT-6,25,Mujer,Licenciatura,No,4 o mas,Si,Ni mala ni buena,Si,No,3,Si,5,5,4,No,Si,No estoy de acuerdo,4,3,Si
+2021/11/30 5:17:01 p. m. GMT-6,34,Mujer,Licenciatura,No,3,Si,Buena,Si,No,2,Si,4,1,3,No,Si,No estoy de acuerdo,4,3,No
+2021/11/30 5:22:20 p. m. GMT-6,54,Hombre,Licenciatura,Si,4 o mas,Si,Buena,Si,Si,1,No,4,1,3,No,Si,Indiferente,4,3,No
+2021/11/30 5:27:07 p. m. GMT-6,38,Mujer,Posgrado,Si,2,No,Ni mala ni buena,Si,No,2,Si,4,3,3,No,No,No estoy de acuerdo,3,3,No
+2021/11/30 5:38:04 p. m. GMT-6,38,Mujer,Licenciatura,No,3,No,Ni mala ni buena,Si,No,3,No,5,5,5,No,No,No estoy de acuerdo,0,0,No
+2021/11/30 6:12:20 p. m. GMT-6,50,Mujer,Posgrado,Si,2,No,Muy buena,Si,No,2,No,5,2,2,Si,Si,No estoy de acuerdo,4,4,Si
+2021/11/30 6:15:23 p. m. GMT-6,68,Mujer,Posgrado,No,1,No,Ni mala ni buena,Si,No,2,Si,5,1,3,No,No,No estoy de acuerdo,5,3,No
+2021/11/30 6:30:12 p. m. GMT-6,35,Mujer,Licenciatura,Si,3,Si,Muy buena,Si,Si,2,No,5,3,3,No,Si,Indiferente,1,4,No
+2021/11/30 7:03:24 p. m. GMT-6,31,Hombre,Licenciatura,Si,3,No,Buena,Si,Si,3,Si,5,5,5,No,Si,No estoy de acuerdo,5,3,Si
+2021/11/30 7:12:54 p. m. GMT-6,23,Hombre,Preparatoria,No,1,No,Buena,Si,No,2,Si,3,4,4,No,Si,Indiferente,4,4,Si
+2021/11/30 7:28:20 p. m. GMT-6,77,Mujer,Posgrado,No,4 o mas,Si,Ni mala ni buena,Si,No,1,Si,5,4,3,Si,No,No estoy de acuerdo,2,2,No
+2021/11/30 7:33:04 p. m. GMT-6,29,Mujer,Licenciatura,Si,1,No,Ni mala ni buena,Si,Si,3,No,3,4,4,Si,No,No estoy de acuerdo,3,2,Si
+2021/11/30 7:38:38 p. m. GMT-6,40,Hombre,Posgrado,No,2,No,Muy buena,Si,No,3,Si,5,4,5,Si,No,Indiferente,4,3,No
+2021/11/30 7:43:15 p. m. GMT-6,35,Hombre,Posgrado,Si,4 o mas,No,Ni mala ni buena,Si,No,1,No,4,1,1,No,Si,Indiferente,2,1,No
+2021/11/30 7:56:34 p. m. GMT-6,24,Hombre,Preparatoria,Si,2,No,Buena,Si,Si,4,Si,3,1,1,No,Si,Indiferente,2,3,No
+2021/11/30 8:14:04 p. m. GMT-6,31,Hombre,Posgrado,No,4 o mas,Si,Muy buena,Si,No,2,No,5,4,3,Si,No,No estoy de acuerdo,3,3,Si
+2021/11/30 8:17:18 p. m. GMT-6,25,Mujer,Licenciatura,No,0,No,Muy buena,Si,No,3,Si,5,5,4,No,No,No estoy de acuerdo,2,3,Si
+2021/11/30 8:50:45 p. m. GMT-6,53,Hombre,Licenciatura,Si,0,No,Buena,Si,No,3,Si,5,3,5,No,Si,Indiferente,3,2,No
+2021/11/30 8:50:58 p. m. GMT-6,45,Mujer,Licenciatura,Si,3,No,Buena,Si,No,3,Si,4,4,5,Si,Si,No estoy de acuerdo,3,4,No
+2021/11/30 8:55:40 p. m. GMT-6,23,Hombre,Licenciatura,Si,2,Si,Muy buena,Si,No,3,Si,5,5,5,Si,Si,Estoy de acuerdo,0,2,Si
+2021/11/30 8:56:11 p. m. GMT-6,32,Hombre,Licenciatura,Si,3,No,Buena,No,Si,2,No,3,3,2,Si,No,No estoy de acuerdo,4,3,Si
+2021/11/30 10:13:01 p. m. GMT-6,46,Mujer,Licenciatura,Si,4 o mas,Si,Buena,Si,Si,3,Si,3,3,3,Si,No,Indiferente,4,3,Si
+2021/11/30 10:33:35 p. m. GMT-6,48,Hombre,Posgrado,Si,3,Si,Buena,No,Si,1,No,5,5,5,No,Si,Indiferente,3,2,No
+2021/11/30 10:44:50 p. m. GMT-6,42,Hombre,Licenciatura,No,1,Si,Mala,Si,No,2,No,5,2,5,Si,No,No estoy de acuerdo,3,3,No
+2021/11/30 11:39:22 p. m. GMT-6,39,Mujer,Secundaria,Si,2,No,Muy buena,Si,No,3,Si,5,4,5,No,No,No estoy de acuerdo,3,2,No
+2021/12/01 8:45:13 a. m. GMT-6,27,Hombre,Licenciatura,Si,3,Si,Muy buena,Si,No,4,No,5,4,4,Si,No,Estoy de acuerdo,3,4,No
+2021/12/01 9:33:48 a. m. GMT-6,41,Mujer,Posgrado,No,0,No,Buena,Si,Si,1,No,4,3,3,No,Si,Indiferente,3,2,Si
+2021/12/01 8:42:34 p. m. GMT-6,53,Mujer,Posgrado,Si,2,Si,Ni mala ni buena,Si,No,2,Si,5,3,3,Si,Si,No estoy de acuerdo,4,2,No
+2021/12/01 10:38:24 p. m. GMT-6,27,Mujer,Licenciatura,No,2,Si,Buena,Si,No,3,Si,5,4,4,Si,Si,No estoy de acuerdo,4,4,Si
+2021/12/02 8:41:07 a. m. GMT-6,27,Hombre,Licenciatura,No,1,No,Ni mala ni buena,Si,No,1,Si,3,3,4,Si,No,Indiferente,3,3,Si
+2021/12/02 3:05:50 p. m. GMT-6,43,Mujer,Licenciatura,No,4 o mas,No,Muy buena,Si,Si,1,No,5,4,3,Si,No,No estoy de acuerdo,5,4,Si
+2021/12/02 3:10:42 p. m. GMT-6,44,Mujer,Posgrado,No,4 o mas,No,Muy buena,Si,No,1,No,5,1,1,Si,Si,No estoy de acuerdo,2,3,No
+2021/12/02 3:29:52 p. m. GMT-6,48,Mujer,Posgrado,No,1,No,Buena,Si,No,2,No,5,5,5,No,No,Indiferente,2,2,Si
+2021/12/02 3:55:34 p. m. GMT-6,46,Mujer,Posgrado,No,4 o mas,Si,Muy buena,Si,No,1,Si,5,1,3,Si,No,No estoy de acuerdo,1,2,Si
+2021/12/02 5:33:13 p. m. GMT-6,56,Mujer,Licenciatura,No,0,No,Buena,Si,Si,1,No,5,1,3,No,Si,Indiferente,1,1,Si
+2021/12/02 9:19:47 p. m. GMT-6,50,Hombre,Posgrado,No,4 o mas,No,Buena,Si,No,3,Si,5,2,1,Si,Si,No estoy de acuerdo,3,4,No
+2021/12/04 4:58:47 p. m. GMT-6,32,Mujer,Licenciatura,Si,1,No,Buena,No,No,3,No,4,1,4,Si,No,Indiferente,4,2,Si
+2021/12/04 5:14:08 p. m. GMT-6,42,Mujer,Posgrado,Si,2,No,Buena,Si,No,1,No,4,4,4,Si,Si,No estoy de acuerdo,2,2,No
+2021/12/04 5:58:30 p. m. GMT-6,24,Mujer,Preparatoria,Si,3,No,Buena,Si,Si,2,No,5,1,5,No,No,Indiferente,4,3,Si
+2021/12/04 7:13:24 p. m. GMT-6,35,Mujer,Licenciatura,Si,4 o mas,No,Buena,Si,Si,2,No,4,3,4,Si,No,Indiferente,0,3,Si
+2021/12/04 7:33:58 p. m. GMT-6,44,Mujer,Posgrado,No,4 o mas,No,Muy buena,Si,No,4,No,5,4,2,Si,Si,Indiferente,1,3,Si
+2021/12/04 9:46:20 p. m. GMT-6,62,Mujer,Licenciatura,No,3,No,Buena,Si,No,3,Si,4,4,4,No,Si,No estoy de acuerdo,5,4,Si
+2021/12/04 9:55:51 p. m. GMT-6,61,Mujer,Posgrado,Si,3,Si,Muy buena,No,Si,1,No,5,5,1,No,No,No estoy de acuerdo,5,3,No
+2021/12/05 10:37:01 a. m. GMT-6,43,Hombre,Licenciatura,Si,1,No,Muy buena,Si,No,2,No,4,4,1,Si,Si,Indiferente,5,4,Si
+2021/12/05 12:10:00 p. m. GMT-6,33,Mujer,Licenciatura,No,4 o mas,Si,Buena,Si,Si,3,Si,5,3,2,No,No,No estoy de acuerdo,3,3,Si
+2021/12/05 3:25:15 p. m. GMT-6,44,Hombre,Posgrado,No,0,No,Buena,Si,No,2,No,5,1,2,Si,Si,Indiferente,5,4,Si
+2021/12/06 8:28:56 a. m. GMT-6,29,Hombre,Posgrado,No,1,Si,Buena,Si,No,3,No,4,4,3,Si,No,No estoy de acuerdo,3,2,No
+2021/12/08 7:58:19 a. m. GMT-6,54,Hombre,Posgrado,Si,4 o mas,Si,Buena,Si,No,3,Si,5,4,4,Si,Si,Indiferente,2,3,Si
